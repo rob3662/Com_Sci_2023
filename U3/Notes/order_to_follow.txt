@@ -6,3 +6,8 @@ Lesson 4 - Input Intro
 Lesson 5 - Adding Bot
 Portfolio 2 - Adding 3 numbers(end of lesson 5)
 Portfolio 3 - Area of Rectangle(end of lesson 5)
+Lesson 6 - Naming and Commenting
+U3 Assignment 1 - Variables
+Lesson 7 - Variable Types
+Lesson 8 - If
+Portfolio 4 - Confusing Marvin
