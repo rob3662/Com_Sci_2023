@@ -11,3 +11,7 @@ U3 Assignment 1 - Variables
 Lesson 7 - Variable Types
 Lesson 8 - If
 Portfolio 4 - Confusing Marvin
+Lesson 9 - And Or
+Portfolio 5 - Or
+Lesson 10 - Bot 2.0
+Portfolio 6 - Bot 2
