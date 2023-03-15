@@ -15,3 +15,5 @@ Lesson 9 - And Or
 Portfolio 5 - Or
 Lesson 10 - Bot 2.0
 Portfolio 6 - Bot 2
+Lesson 11 - Loops
+Portfolio 7 - Make and Print List(slide 43 in lesson 11)
