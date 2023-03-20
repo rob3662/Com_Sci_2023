@@ -17,3 +17,5 @@ Lesson 10 - Bot 2.0
 Portfolio 6 - Bot 2
 Lesson 11 - Loops
 Portfolio 7 - Make and Print List(slide 43 in lesson 11)
+Lesson 12 - Loops 2
+Portfoilo 8 - While Loop Counter(Slide 9 in lesson 12)
