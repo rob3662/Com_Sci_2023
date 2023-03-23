@@ -15,6 +15,7 @@ Lesson 9 - And Or
 Portfolio 5 - Or
 Lesson 10 - Bot 2.0
 Portfolio 6 - Bot 2
+U3 Assignment 2 - Gas Pump
 Lesson 11 - Loops
 Portfolio 7 - Make and Print List(slide 43 in lesson 11)
 Lesson 12 - Loops 2
@@ -22,4 +23,5 @@ Portfoilo 8 - While Loop Counter(Slide 9 in lesson 12)
 Lesson 13 - Functions
 Portfolio 9 - Completed Bot
 Lesson 14 - Optimization
-U3 Assignment 2 - choice
+Lesson 15 - Importing
+U3 Assignment 3 - choice, only do one
