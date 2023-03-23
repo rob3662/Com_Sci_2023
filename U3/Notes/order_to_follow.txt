@@ -19,3 +19,7 @@ Lesson 11 - Loops
 Portfolio 7 - Make and Print List(slide 43 in lesson 11)
 Lesson 12 - Loops 2
 Portfoilo 8 - While Loop Counter(Slide 9 in lesson 12)
+Lesson 13 - Functions
+Portfolio 9 - Completed Bot
+Lesson 14 - Optimization
+U3 Assignment 2 - choice
