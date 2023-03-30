@@ -1,0 +1,42 @@
+Unit 3 Final Project Ideas
+
+1. Total Price After Tax
+	Input all of the prices and display the total price after 15% tax is added. The output should have 2 decimal places even if it ends in zero
+
+2. Currency Converter
+	Input the starting currency, the final currency, and the amount after the conversion
+
+3. Rock Paper Scissors
+	Play RPS agains the computer
+
+4. Password Generator
+	Input the number of characters required for a password and output a randomly generated password
+
+5. Password Strength Test
+	Check to see if an entered password contains the correct number and types of characters(lower, upper, special, numbers).
+
+6. Hangman
+	Choose a word from a list and have the user guess the letters to find the word. There is a limited number of mistakes that they can make.
+
+7. Prime Number Generator
+	Create a program where the user can input a number and all of the prime numbers up to that number are displayed.
+
+8. Prime Number Generator or Checker
+	Input a number and check if it is a prime number.
+
+9. Triangle Checker
+	Input the length of each side of a triangle and determine if it is isosceles, equilateral, scalene.
+	OR
+	Input the length of each side of a triangle and determine if it is right, acute, or obtuse.
+
+10. Total Cost Calculator using the 5 cent rounding rule
+	Calculate the final price of an item, or items, if someone is paying with cash rounded off to the nearest 5 cents.
+
+11. Unique Character Checker
+	Input a word or sentence and determine how many unique characters there are.
+
+12. Anagram Checker
+	Input two words and check if they are anagrams.
+
+13. Palindrome Checker
+	Input a word and check if it is an palindrome.
