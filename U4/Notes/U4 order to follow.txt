@@ -10,3 +10,6 @@ Things to Try
 Interfacing Assignment 1
 Lesson 7 - Using Sensors
 Lesson 8 - Servo, Buzzer, and LED Bricks
+Interfacing Assignment 2
+Interfacing Assignment 3
+Final Project
